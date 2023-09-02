@@ -1,0 +1,5 @@
+/*O código abaixo define espaçamentos do site em relação as bordas*/
+html, body {
+    margin: 0;
+    padding: 0;
+  }
